@@ -1,4 +1,3 @@
-from pickle import FALSE
 import sys
 import clipboard
 import json
